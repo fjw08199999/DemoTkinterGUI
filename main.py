@@ -16,7 +16,6 @@ placeY_Range = 20
 labelText = []
 
 
-
 # 製作99乘法表資料 並放入陣列中 格式為tk.Label
 for i in range(1, 10, 1):
     for j in range(1, 10, 1):
